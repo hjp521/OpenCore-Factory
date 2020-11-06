@@ -1,10 +1,11 @@
-# OpenCore-Factory
+# OpenCore-Fact
 [![Build Status](https://dev.azure.com/76549792/OpenCore-Fact/_apis/build/status/OpenCore-Fact?branchName=master)](https://dev.azure.com/76549792/OpenCore-Fact/_build/latest?definitionId=9&branchName=master)
-[![Release](https://img.shields.io/github/v/release/williambj1/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/williambj1/OpenCore-Factory/releases)
+[![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases)
+
 
 ## 语言
 
-- [English](https://github.com/williambj1/OpenCore-Factory/blob/master/README.md)
+- [English](https://github.com/hjp521/OpenCore-Fact/blob/master/README.md)
 - **简体中文（当前）**
 
 ## **警告⚠️**
@@ -25,7 +26,7 @@
 
 ### 下载
 
-👉 [![Release](https://img.shields.io/github/v/release/williambj1/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/williambj1/OpenCore-Factory/releases) 👈
+👉 [![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases) 👈
 
 > 点击上面的标签下载
 >
