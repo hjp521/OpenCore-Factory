@@ -1,4 +1,4 @@
-# OpenCore-Factory
+# OpenCore-Fact
 [![Build Status](https://dev.azure.com/76549792/OpenCore-Fact/_apis/build/status/OpenCore-Fact?branchName=master)](https://dev.azure.com/76549792/OpenCore-Fact/_build/latest?definitionId=9&branchName=master)
 [![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases)
 
