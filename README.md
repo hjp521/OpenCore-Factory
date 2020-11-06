@@ -1,11 +1,11 @@
 # OpenCore-Factory
 [![Build Status](https://dev.azure.com/76549792/OpenCore-Fact/_apis/build/status/OpenCore-Fact?branchName=master)](https://dev.azure.com/76549792/OpenCore-Fact/_build/latest?definitionId=9&branchName=master)
-[![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Factory/releases)
+[![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases)
 
 ## Languages
 
 - **English (Current)**
-- [简体中文](https://github.com/hjp521/OpenCore-Factory/blob/master/README_zh-Hans.md)
+- [简体中文](https://github.com/hjp521/OpenCore-Fact/blob/master/README_zh-Hans.md)
 
 ## **WARNING⚠️**
 
@@ -25,7 +25,7 @@ Contains latest changes from [OpenCorePkg](https://github.com/acidanthera/OpenCo
 
 ### Download
 
-👉 [![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Factory/releases) 👈
+👉 [![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases) 👈
 
 > Download by clicking the badge above
 >
