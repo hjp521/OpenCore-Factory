@@ -1,5 +1,6 @@
 # OpenCore-Fact
-[![Build Status](https://dev.azure.com/76549792/OpenCore-Fact/_apis/build/status/OpenCore-Fact?branchName=master)](https://dev.azure.com/76549792/OpenCore-Fact/_build/latest?definitionId=9&branchName=master)
+
+[![Build Status](https://dev.azure.com/a76541892340137/opencore/_apis/build/status/opencore-CI?branchName=master)](https://dev.azure.com/a76541892340137/opencore/_build/latest?definitionId=1&branchName=master)     
 [![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases)
 
 
