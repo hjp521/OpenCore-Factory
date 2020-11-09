@@ -1,6 +1,6 @@
 # OpenCore-Factory
 
-[![Build Status](https://dev.azure.com/OpenCorep/OpenCore-Factory/_apis/build/status/OpenCore-Factory?branchName=master)](https://dev.azure.com/OpenCorep/OpenCore-Factory/_build/latest?definitionId=1&branchName=master)[![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Fact?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Fact/releases)
+[![Build Status](https://dev.azure.com/OpenCorep/OpenCore-Factory/_apis/build/status/OpenCore-Factory?branchName=master)](https://dev.azure.com/OpenCorep/OpenCore-Factory/_build/latest?definitionId=1&branchName=master)[![Release](https://img.shields.io/github/v/release/hjp521/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/hjp521/OpenCore-Factory/releases)
 
 
 ## 语言
