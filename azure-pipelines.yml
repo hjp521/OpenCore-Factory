@@ -1,5 +1,5 @@
 # OC Release
-trigger: none
+trigger: Azure Pipelines
 pr: none
 
 schedules:
