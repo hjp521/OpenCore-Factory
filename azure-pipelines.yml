@@ -1,5 +1,5 @@
 # OC Release
-trigger: Azure Pipelines
+trigger: none
 pr: none
 
 schedules:
@@ -17,7 +17,7 @@ variables:
   DEBUG: 0
 
 pool:
-  vmImage: 'macOS-10.15'
+  vmImage: 'macOS-latest'
 
 steps:
 
