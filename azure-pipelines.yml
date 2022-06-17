@@ -245,4 +245,5 @@ steps:
     releaseNotesFile: '$(Build.ArtifactStagingDirectory)/ReleaseNotes.md'
     assets: '$(Build.ArtifactStagingDirectory)/Artifacts/*.zip'
     addChangeLog: false
-    isPreRelease: true
+    isPreRelease: true 
+
